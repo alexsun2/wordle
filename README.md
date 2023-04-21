@@ -7,8 +7,6 @@ Players have six attempts to guess a five-letter word, with feedback given for e
 
 Lab Partner: Shawhin Layeghi
 
-Download the nyt.txt and little.txt files to run the game properly
-
 ## Display
 <p align="center">
   <img src= "https://github.com/alexsun2/wordle/blob/main/Wordle.gif" alt="Wordle Display" height="400"/>
