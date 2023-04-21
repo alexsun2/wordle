@@ -1,5 +1,5 @@
 # Wordle
-A Fundamentals of Computer Science 1 Game Assignment in Racket:
+A Northeastern Fundamentals of Computer Science 1 Game Assignment in Racket:
 
 Recreating the game: [Wordle](https://www.nytimes.com/games/wordle/index.html)
 
