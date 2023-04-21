@@ -7,6 +7,8 @@ Players have six attempts to guess a five-letter word, with feedback given for e
 
 Lab Partner: Shawhin Layeghi
 
+Download Racket to run the game: https://download.racket-lang.org/
+
 Code not published for now.
 
 ## Display
