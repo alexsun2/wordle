@@ -9,7 +9,7 @@ Lab Partner: Shawhin Layeghi
 
 Download Racket to run the game: https://download.racket-lang.org/
 
-Code not published for now.
+Per instructor policy, code will only be released by request.
 
 ## Display
 <p align="center">
